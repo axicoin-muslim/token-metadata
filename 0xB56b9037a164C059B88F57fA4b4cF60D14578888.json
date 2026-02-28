@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logo": "https://raw.githubusercontent.com/axicoin-muslim/token-metadata/main/logo.png",
+  "website": "https://tether.io",
+  "description": "Test token for metadata"
+}
